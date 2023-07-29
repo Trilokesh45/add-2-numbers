@@ -1,2 +1,3 @@
-# add-2-numbers
-adding 2 num
+a=int(input())
+b=int(input())
+print(a+b)
